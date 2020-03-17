@@ -1,0 +1,9 @@
+class Char
+{
+public staic void main(String args[])
+{
+char ch1='A';
+char ch2=97;
+System.out.print(ch1+"   "+ch2);
+}
+}
